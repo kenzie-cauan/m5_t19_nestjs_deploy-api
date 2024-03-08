@@ -1,0 +1,5 @@
+comandos de montagem da aplicação:
+npm install; npm run build; npm run migrate
+
+comando de inicialização da aplicação:
+npm run start:prod
